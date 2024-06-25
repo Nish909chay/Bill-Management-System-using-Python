@@ -3,8 +3,6 @@ The Bill Management System is a graphical user interface (GUI) application desig
 
 Libraries Used
 Tkinter: The standard GUI library for Python, used to create the application’s interface.
-sqlite3 (optional): For database management to store bill records persistently.
-Pandas (optional): For data manipulation and analysis, especially if the system includes reporting features.
 
 Key Components
 Main Window: The central window containing the navigation menu and key functional buttons.
